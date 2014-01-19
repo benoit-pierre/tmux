@@ -17,3 +17,8 @@ Makefile
 Makefile.in
 configure
 tmux.1.*
+/Trace-child.out
+/Trace-parent.out
+/tmux-client-[0-9]*.log
+/tmux-server-[0-9]*.log
+/xterm.log
